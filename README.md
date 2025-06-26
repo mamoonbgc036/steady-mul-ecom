@@ -39,7 +39,7 @@
      APP_URL=http://ecommerce.app.test
      DB_CONNECTION=mysql
      DB_HOST=127.0.0.1
-     DB_PORT=5432
+     DB_PORT=3306
      DB_DATABASE=sso_db
      DB_USERNAME=root
      DB_PASSWORD=
@@ -53,7 +53,7 @@
      APP_URL=http://foodpanda.app.test
      DB_CONNECTION=mysql
      DB_HOST=127.0.0.1
-     DB_PORT=5432
+     DB_PORT=3306
      DB_DATABASE=sso_db
      DB_USERNAME=root
      DB_PASSWORD=
